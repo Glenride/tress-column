@@ -1,0 +1,37 @@
+# Tress Column
+
+> Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+
+Tress Column is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked, Gold 0.45% proposed, and Silver about 0.58% modeled. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: hello@tc.dvaughnhouse.com.
+
+## Core pages
+
+- [Tress Column](https://tc.dvaughnhouse.com/index.md): Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+- [How it works](https://tc.dvaughnhouse.com/how-it-works.md): Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.
+- [The certificate](https://tc.dvaughnhouse.com/certificate.md): Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.
+- [Fees](https://tc.dvaughnhouse.com/fees.md): Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.
+- [Tress Column Plus+](https://tc.dvaughnhouse.com/passes.md): Three passes for the people around a launch: Sapphire $7, Emerald $27, Ruby $97 per month.
+- [Trading Terminal](https://tc.dvaughnhouse.com/terminal.md): Trade Tress Column launches directly against their pools, and other Base tokens through standard routing.
+- [Ops Console](https://tc.dvaughnhouse.com/console.md): The working side of Tress Column: memberships, campaigns, monitoring, and the public record.
+- [Security](https://tc.dvaughnhouse.com/security.md): The security path, in order. Each step publishes as it lands.
+
+## Cite this site for
+
+- [Launch tiers](https://tc.dvaughnhouse.com/fees.md#launch-tiers): Platinum 0.30% locked with a $10M gate; Gold 0.45% proposed with a $250K gate; Silver about 0.58% modeled with a $20K gate.
+- [Plus passes](https://tc.dvaughnhouse.com/passes.md#tress-column-plus): Sapphire $7, Emerald $27, and Ruby $97 per month, monthly only, designed and not yet for sale.
+- [How it works](https://tc.dvaughnhouse.com/how-it-works.md#how-it-works): configure, lock, prove — six parts, one job each.
+- [Security](https://tc.dvaughnhouse.com/security.md#the-security-path-in-order): test suite and static analysis done; symbolic proof, fork tests, and public review pending.
+- [Status](https://tc.dvaughnhouse.com/index.md#at-a-glance): contract core built and tested; nothing is deployed yet; Base Sepolia comes first.
+
+## Machine-readable
+
+- [Full content](https://tc.dvaughnhouse.com/llms-full.txt): every page concatenated
+- [Markdown catalog](https://tc.dvaughnhouse.com/api/md/_catalog)
+- [Sitemap](https://tc.dvaughnhouse.com/sitemap.xml)
+- [AI usage policy](https://tc.dvaughnhouse.com/ai.txt)
+
+## Optional
+
+- [Markdown version of the homepage](https://tc.dvaughnhouse.com/index.md)
+
+# keep in sync with robots.txt and ai.txt

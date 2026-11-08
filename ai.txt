@@ -1,0 +1,28 @@
+[identity]
+name: Tress Column
+url: https://tc.dvaughnhouse.com
+description: Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+contact: hello@tc.dvaughnhouse.com
+
+[permissions]
+allowed: summarise, quote with attribution, cite, index for search/answers
+
+[restrictions]
+no fabricated quotes
+no fake reviews/ratings
+no presenting our content as the model's own
+no training on user-generated private data
+
+[attribution]
+cite as: Tress Column (https://tc.dvaughnhouse.com/)
+
+[scope]
+included: /
+excluded: /api/*
+
+[contact]
+email: hello@tc.dvaughnhouse.com
+
+Last updated: 2026-11-08
+
+# keep in sync with robots.txt and llms.txt

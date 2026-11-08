@@ -1,0 +1,63 @@
+{
+  "site": "Tress Column",
+  "url": "https://tc.dvaughnhouse.com",
+  "generated": "2026-11-08",
+  "routes": [
+    {
+      "path": "/",
+      "md": "https://tc.dvaughnhouse.com/index.md",
+      "title": "Tress Column",
+      "summary": "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/how-it-works",
+      "md": "https://tc.dvaughnhouse.com/how-it-works.md",
+      "title": "How it works",
+      "summary": "Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/certificate",
+      "md": "https://tc.dvaughnhouse.com/certificate.md",
+      "title": "The certificate",
+      "summary": "Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/fees",
+      "md": "https://tc.dvaughnhouse.com/fees.md",
+      "title": "Fees",
+      "summary": "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/passes",
+      "md": "https://tc.dvaughnhouse.com/passes.md",
+      "title": "Tress Column Plus+",
+      "summary": "Three passes for the people around a launch: Sapphire $7, Emerald $27, Ruby $97 per month.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/terminal",
+      "md": "https://tc.dvaughnhouse.com/terminal.md",
+      "title": "Trading Terminal",
+      "summary": "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/console",
+      "md": "https://tc.dvaughnhouse.com/console.md",
+      "title": "Ops Console",
+      "summary": "The working side of Tress Column: memberships, campaigns, monitoring, and the public record.",
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/security",
+      "md": "https://tc.dvaughnhouse.com/security.md",
+      "title": "Security",
+      "summary": "The security path, in order. Each step publishes as it lands.",
+      "updated": "2026-11-08"
+    }
+  ]
+}

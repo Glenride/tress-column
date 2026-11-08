@@ -1,0 +1,28 @@
+# Tress Column — robots.txt
+# AI search and user-fetch crawlers are explicitly allowed on public paths.
+# Training crawlers are not listed here and get no explicit allow.
+# keep in sync with llms.txt and ai.txt
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://tc.dvaughnhouse.com/sitemap.xml

@@ -1,0 +1,8 @@
+name = "tc"
+compatibility_date = "2026-11-02"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tress-column-waitlist"
+database_id = "40ed2e1c-1e65-4b69-936f-77bfd88ad00a"

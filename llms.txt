@@ -2,7 +2,7 @@
 
 > Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
 
-Tress Column is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked, Gold 0.45% proposed, and Silver about 0.58% modeled. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: hello@tc.dvaughnhouse.com.
+Tress Column is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked and Gold 0.45% proposed. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: hello@tc.dvaughnhouse.com.
 
 ## Core pages
 
@@ -17,7 +17,7 @@ Tress Column is a fair-launch exchange and launch anchor on Base, a Glenride pro
 
 ## Cite this site for
 
-- [Launch tiers](https://tc.dvaughnhouse.com/fees.md#launch-tiers): Platinum 0.30% locked with a $10M gate; Gold 0.45% proposed with a $250K gate; Silver about 0.58% modeled with a $20K gate.
+- [Launch tiers](https://tc.dvaughnhouse.com/fees.md#launch-tiers): Platinum 0.30% locked with a $10M gate; Gold 0.45% proposed with a $250K gate.
 - [Plus passes](https://tc.dvaughnhouse.com/passes.md#tress-column-plus): Sapphire $7, Emerald $27, and Ruby $97 per month, monthly only, designed and not yet for sale.
 - [How it works](https://tc.dvaughnhouse.com/how-it-works.md#how-it-works): configure, lock, prove — six parts, one job each.
 - [Security](https://tc.dvaughnhouse.com/security.md#the-security-path-in-order): test suite and static analysis done; symbolic proof, fork tests, and public review pending.

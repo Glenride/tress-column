@@ -4,7 +4,7 @@ export const SITE = {
   "url": "https://tc.dvaughnhouse.com",
   "description": "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
   "contact": "hello@tc.dvaughnhouse.com",
-  "parent": "Tress Column — a Glenride project. Launch once. Lock everything. Show everyone.",
+  "parent": "Tress Column, a Glenride project.",
   "updated": "2026-11-08"
 };
 export const PAGES = [
@@ -13,8 +13,8 @@ export const PAGES = [
     "mdPath": "/index.md",
     "title": "Tress Column",
     "summary": "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
-    "aiSummary": "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked and Gold 0.45% proposed.",
-    "description": "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% proposed ($250K gate). Nothing is deployed yet.",
+    "aiSummary": "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
+    "description": "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate). Nothing is deployed yet.",
     "updated": "2026-11-08",
     "section": "Core pages",
     "facts": [
@@ -24,6 +24,9 @@ export const PAGES = [
       "Gold",
       "0.45%",
       "$250K",
+      "Silver",
+      "0.58%",
+      "$20K",
       "Nothing is deployed",
       "Base Sepolia",
       "hello@tc.dvaughnhouse.com",
@@ -70,7 +73,7 @@ export const PAGES = [
     "mdPath": "/fees.md",
     "title": "Fees",
     "summary": "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
-    "aiSummary": "Tress Column fees: 0% until $10M volume, then the launch's fixed rate. Platinum 0.30% locked, Gold 0.45% proposed.",
+    "aiSummary": "Tress Column fees: 0% until $10M volume, then the launch's fixed rate. Platinum 0.30% locked, Gold 0.45% locked, Silver ~0.58% decided.",
     "description": "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
     "updated": "2026-11-08",
     "section": "Pricing",

@@ -514,7 +514,7 @@
   @media (max-width:960px){ .locked-grid{grid-template-columns:1fr} .locked{padding:30px 26px 26px} }
 
   /* ---------- fee comparison ---------- */
-  .cmp{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px}
+  .cmp{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-bottom:14px}
   .cmp-card{background:var(--panel-2);border:1px solid rgba(243,239,228,.1);border-radius:10px;padding:16px 18px 14px}
   .cmp-patient{border-color:rgba(212,175,55,.55)}
   .cmp-tier{font-family:var(--serif);font-weight:600;font-size:17px;color:#FBF8EF}

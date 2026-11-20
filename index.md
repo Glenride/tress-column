@@ -11,7 +11,7 @@ Last updated: 2026-11-08
 | --- | --- |
 | What it is | A fair-launch exchange and launch anchor on Base |
 | Status | In build. The contract core is written and tested; nothing is deployed yet — Base Sepolia comes first. |
-| Launch tiers | Platinum 0.30% locked ($10M gate); Gold 0.45% proposed ($250K gate) |
+| Launch tiers | Platinum 0.30% locked ($10M gate); Gold 0.45% locked ($250K gate); Silver ~0.58% decided ($20K gate) |
 | Contact | hello@tc.dvaughnhouse.com |
 | Parent | Tress Column — a Glenride project |
 
@@ -23,9 +23,13 @@ Configure, lock, prove. The fair-launch exchange on Base — every term set at i
 
 No fee until $10M.
 
-### Gold — 0.45% (Proposed)
+### Gold — 0.45% (Locked)
 
-$250K gate. Proposed, not locked.
+$250K gate. Locked.
+
+### Silver — ~0.58% (Decided)
+
+$20K gate. No lock or burn. Decided.
 
 ## Explore Tress Column
 

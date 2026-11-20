@@ -22,7 +22,7 @@ const SITE = {
   description:
     "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
   contact: "hello@tc.dvaughnhouse.com",
-  parent: "Tress Column — a Glenride project. Launch once. Lock everything. Show everyone.",
+  parent: "Tress Column, a Glenride project.",
   updated: "2026-11-08", // last content change to index.html (file mtime)
 };
 
@@ -36,12 +36,12 @@ const PAGES = [
     summary:
       "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
     aiSummary:
-      "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked and Gold 0.45% proposed.",
+      "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
     description:
-      "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% proposed ($250K gate). Nothing is deployed yet.",
+      "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate). Nothing is deployed yet.",
     updated: SITE.updated,
     section: "Core pages",
-    facts: ["Platinum", "0.30%", "$10M", "Gold", "0.45%", "$250K", "Nothing is deployed", "Base Sepolia", "hello@tc.dvaughnhouse.com", "Configure, lock, prove"],
+    facts: ["Platinum", "0.30%", "$10M", "Gold", "0.45%", "$250K", "Silver", "0.58%", "$20K", "Nothing is deployed", "Base Sepolia", "hello@tc.dvaughnhouse.com", "Configure, lock, prove"],
   },
   {
     path: "/how-it-works",
@@ -78,7 +78,7 @@ const PAGES = [
     summary:
       "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
     aiSummary:
-      "Tress Column fees: 0% until $10M volume, then the launch's fixed rate. Platinum 0.30% locked, Gold 0.45% proposed.",
+      "Tress Column fees: 0% until $10M volume, then the launch's fixed rate. Platinum 0.30% locked, Gold 0.45% locked, Silver ~0.58% decided.",
     description:
       "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
     updated: SITE.updated,
@@ -159,7 +159,7 @@ Last updated: 2026-11-08
 | --- | --- |
 | What it is | A fair-launch exchange and launch anchor on Base |
 | Status | In build. The contract core is written and tested; nothing is deployed yet — Base Sepolia comes first. |
-| Launch tiers | Platinum 0.30% locked ($10M gate); Gold 0.45% proposed ($250K gate) |
+| Launch tiers | Platinum 0.30% locked ($10M gate); Gold 0.45% locked ($250K gate); Silver ~0.58% decided ($20K gate) |
 | Contact | hello@tc.dvaughnhouse.com |
 | Parent | Tress Column — a Glenride project |
 
@@ -171,9 +171,13 @@ Configure, lock, prove. The fair-launch exchange on Base — every term set at i
 
 No fee until $10M.
 
-### Gold — 0.45% (Proposed)
+### Gold — 0.45% (Locked)
 
-$250K gate. Proposed, not locked.
+$250K gate. Locked.
+
+### Silver — ~0.58% (Decided)
+
+$20K gate. No lock or burn. Decided.
 
 ## Explore Tress Column
 
@@ -291,17 +295,18 @@ Zero until ten million. Then 0.3%, in the open. Tress Column earns nothing from 
 | Tier | Configuration at inception | Volume gate | Fee above gate |
 | --- | --- | --- | --- |
 | Platinum | LP burned, or locked 180 days or more | $10M | 0.30% |
-| Gold | Short timed lock | $250K | 0.45% (Proposed — not locked) |
+| Gold | Short timed lock | $250K | 0.45% (Locked) |
+| Silver | No lock or burn | $20K | ~0.58% (Decided) |
 
 The 0.30% Platinum rate is an introductory offer; a launch's rate never changes once set.
 
-Example from the site's comparison, at $2.0M cumulative launch volume on a $1,000 trade: a Platinum launch pays $0.00; a Gold launch pays $4.50. Same trade, same volume: the difference is the lock.
+Example from the site's comparison, at $2.0M cumulative launch volume on a $1,000 trade: a Platinum launch pays $0.00; a Gold launch pays $4.50; a Silver launch pays $5.80. Same trade, same volume: the difference is the lock.
 
 Pricing notice: for Tress Column Plus+ passes and add-ons, prices and fees are subject to change without notice. Prices shown are introductory offers and discounts. The protocol fee above is different — it is fixed on-chain at launch and printed on the certificate.
 
 ## The deal, set at inception. Never moved after.
 
-Locked October 27, 2026. Lock your liquidity and Tress Column costs you nothing for your first $10M of volume. That is not a promotion — it is the deal, written into the launch, and it can never be changed after. Every launch gets the same treatment: the fee and the gate are chosen at inception, printed on the certificate, and frozen. The door is open to every launch — Platinum or Gold — and the price simply reflects the risk Tress Column carries.
+Locked October 27, 2026. Lock your liquidity and Tress Column costs you nothing for your first $10M of volume. That is not a promotion — it is the deal, written into the launch, and it can never be changed after. Every launch gets the same treatment: the fee and the gate are chosen at inception, printed on the certificate, and frozen. The door is open to every launch, Platinum, Gold, or Silver, and the price simply reflects the risk Tress Column carries.
 
 - **Frozen at inception:** The fee and the gate are set at launch, from the launch's risk tier, and can never move after. No step-up when a lock expires. No ratchet down for locking later. The 0.30% Platinum rate is an introductory offer — later cohorts may be offered a higher Platinum rate — but a launch's rate never changes once set. Grandfathering is per launch, not per creator.
 
@@ -461,7 +466,7 @@ function renderLlmsTxt() {
     ``,
     `> ${SITE.description}`,
     ``,
-    `${SITE.name} is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked and Gold 0.45% proposed. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: ${SITE.contact}.`,
+    `${SITE.name} is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: ${SITE.contact}.`,
     ``,
     `## Core pages`,
     ``,
@@ -471,7 +476,7 @@ function renderLlmsTxt() {
     ``,
     `## Cite this site for`,
     ``,
-    `- [Launch tiers](https://tc.dvaughnhouse.com/fees.md#launch-tiers): Platinum 0.30% locked with a $10M gate; Gold 0.45% proposed with a $250K gate.`,
+    `- [Launch tiers](https://tc.dvaughnhouse.com/fees.md#launch-tiers): Platinum 0.30% locked with a $10M gate; Gold 0.45% locked with a $250K gate; Silver ~0.58% decided with a $20K gate.`,
     `- [Plus passes](https://tc.dvaughnhouse.com/passes.md#tress-column-plus): Sapphire $7, Emerald $27, and Ruby $97 per month, monthly only, designed and not yet for sale.`,
     `- [How it works](https://tc.dvaughnhouse.com/how-it-works.md#how-it-works): configure, lock, prove — six parts, one job each.`,
     `- [Security](https://tc.dvaughnhouse.com/security.md#the-security-path-in-order): test suite and static analysis done; symbolic proof, fork tests, and public review pending.`,

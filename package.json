@@ -1,0 +1,9 @@
+{
+  "name": "tress-column",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/generate-ai-readable.mjs --check",
+    "generate": "node scripts/generate-ai-readable.mjs"
+  },
+  "version": "1.0.0"
+}

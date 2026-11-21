@@ -3,7 +3,7 @@
 > The security path, in order. Each step publishes as it lands.
 
 Canonical: https://tc.dvaughnhouse.com/security
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The security path, in order
 

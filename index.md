@@ -1,9 +1,9 @@
 # Tress Column
 
-> Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+> Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 
 Canonical: https://tc.dvaughnhouse.com/
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## At a glance
 
@@ -15,21 +15,21 @@ Last updated: 2026-11-08
 | Contact | hello@tc.dvaughnhouse.com |
 | Parent | Tress Column — a Glenride project |
 
-Configure, lock, prove. The fair-launch exchange on Base — every term set at inception, printed in plain language, and never changed after.
+Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 
 ## Launch tiers
 
 ### Platinum — 0.30% (Locked)
 
-No fee until $10M.
+No fee until $10M. Permanent or timed lock, 180 days or more. Platinum Holographic Badge.
 
 ### Gold — 0.45% (Locked)
 
-$250K gate. Locked.
+$250K gate. Locked. Gold Standard Certificate.
 
 ### Silver — ~0.58% (Decided)
 
-$20K gate. No lock or burn. Decided.
+$20K gate. No lock or burn. Basic Verification Record.
 
 ## Explore Tress Column
 

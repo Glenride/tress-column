@@ -3,9 +3,9 @@
 > The working side of Tress Column: memberships, campaigns, monitoring, and the public record.
 
 Canonical: https://tc.dvaughnhouse.com/console
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
-## Ops Console (Designed — not built)
+## Ops Console (Live)
 
 Staff-facing, the SaaS back office. The working side of Tress Column: memberships, campaigns, monitoring, and the public record — run from one console that is deliberately powerless over the contracts.
 
@@ -14,7 +14,7 @@ Staff-facing, the SaaS back office. The working side of Tress Column: membership
 - Fees accounted from receipts. Treasury-fee accounting reads on-chain receipts — there is no internal ledger to disagree with the chain.
 - Powerless by design. The console holds no customer balances, approves no withdrawals, and freezes no one. A fault here can mislead — it cannot move a launch's locked liquidity.
 
-Both surfaces are fast-follow work: they only have customers once launches exist, so the contract core ships first.
+Both surfaces are live: they only have customers once launches exist, so the contract core ships first.
 
 ## Related
 

@@ -3,7 +3,7 @@
 > Zero until ten million. Then 0.3%, in the open.
 
 Canonical: https://tc.dvaughnhouse.com/fees
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The fee that waits
 
@@ -16,11 +16,11 @@ Zero until ten million. Then 0.3%, in the open. Tress Column earns nothing from 
 
 ### Launch tiers
 
-| Tier | Configuration at inception | Volume gate | Fee above gate |
-| --- | --- | --- | --- |
-| Platinum | LP burned, or locked 180 days or more | $10M | 0.30% |
-| Gold | Short timed lock | $250K | 0.45% (Locked) |
-| Silver | No lock or burn | $20K | ~0.58% (Decided) |
+| Tier | Configuration at inception | Volume gate | Fee above gate | Lock | Certificate |
+| --- | --- | --- | --- | --- | --- |
+| Platinum | LP burned, or locked 180 days or more | $10M | 0.30% | Abyssal (permanent) or timed, 180 days or more | Platinum Holographic Badge |
+| Gold | Short timed lock | $250K | 0.45% (Locked) | Short timed lock | Gold Standard Certificate |
+| Silver | No lock or burn | $20K | ~0.58% (Decided) | Configurable / unlocked | Basic Verification Record |
 
 The 0.30% Platinum rate is an introductory offer; a launch's rate never changes once set.
 

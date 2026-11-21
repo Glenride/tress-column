@@ -2,20 +2,20 @@
 export const SITE = {
   "name": "Tress Column",
   "url": "https://tc.dvaughnhouse.com",
-  "description": "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
+  "description": "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.",
   "contact": "hello@tc.dvaughnhouse.com",
   "parent": "Tress Column, a Glenride project.",
-  "updated": "2026-11-08"
+  "updated": "2026-11-20"
 };
 export const PAGES = [
   {
     "path": "/",
     "mdPath": "/index.md",
     "title": "Tress Column",
-    "summary": "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
-    "aiSummary": "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
-    "description": "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate). Nothing is deployed yet.",
-    "updated": "2026-11-08",
+    "summary": "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.",
+    "aiSummary": "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
+    "description": "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate).",
+    "updated": "2026-11-20",
     "section": "Core pages",
     "facts": [
       "Platinum",
@@ -40,7 +40,7 @@ export const PAGES = [
     "summary": "Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.",
     "aiSummary": "How a Tress Column launch works: configure once, lock the terms, prove it with a certificate. Six parts, one job each.",
     "description": "Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.",
-    "updated": "2026-11-08",
+    "updated": "2026-11-20",
     "section": "Learn",
     "facts": [
       "Configure",
@@ -59,7 +59,7 @@ export const PAGES = [
     "summary": "Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.",
     "aiSummary": "Every Tress Column launch earns one certificate holding the full record in plain language.",
     "description": "Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.",
-    "updated": "2026-11-08",
+    "updated": "2026-11-20",
     "section": "Learn",
     "facts": [
       "Every launch earns",
@@ -75,7 +75,7 @@ export const PAGES = [
     "summary": "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
     "aiSummary": "Tress Column fees: 0% until $10M volume, then the launch's fixed rate. Platinum 0.30% locked, Gold 0.45% locked, Silver ~0.58% decided.",
     "description": "Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.",
-    "updated": "2026-11-08",
+    "updated": "2026-11-20",
     "section": "Pricing",
     "facts": [
       "Zero until ten million",
@@ -93,7 +93,7 @@ export const PAGES = [
     "summary": "Three passes for the people around a launch: Sapphire $7, Emerald $27, Ruby $97 per month.",
     "aiSummary": "Tress Column Plus+ passes: Sapphire $7, Emerald $27, Ruby $97 per month. Designed, not built, and not for sale yet.",
     "description": "Three passes for the people around a launch: Sapphire $7, Emerald $27, Ruby $97 per month. Tools, sight, and time — never position.",
-    "updated": "2026-11-08",
+    "updated": "2026-11-20",
     "section": "Pricing",
     "facts": [
       "Sapphire Pass",
@@ -109,9 +109,9 @@ export const PAGES = [
     "mdPath": "/terminal.md",
     "title": "Trading Terminal",
     "summary": "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing.",
-    "aiSummary": "The Tress Column Trading Terminal: trade launches directly against their pools, other Base tokens through standard routing. Designed, not built.",
-    "description": "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing. Designed — not built.",
-    "updated": "2026-11-08",
+    "aiSummary": "The Tress Column Trading Terminal: trade launches directly against their pools, other Base tokens through standard routing. Live at trade.dvaughnhouse.com.",
+    "description": "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing. Live at trade.dvaughnhouse.com.",
+    "updated": "2026-11-20",
     "section": "Surfaces",
     "facts": [
       "Trading Terminal",
@@ -124,9 +124,9 @@ export const PAGES = [
     "mdPath": "/console.md",
     "title": "Ops Console",
     "summary": "The working side of Tress Column: memberships, campaigns, monitoring, and the public record.",
-    "aiSummary": "The Tress Column Ops Console: memberships, campaigns, monitoring, and the public record. Designed, not built.",
-    "description": "The working side of Tress Column: memberships, campaigns, monitoring, and the public record. Designed — not built.",
-    "updated": "2026-11-08",
+    "aiSummary": "The Tress Column Ops Console: memberships, campaigns, monitoring, and the public record. Live at ops.dvaughnhouse.com.",
+    "description": "The working side of Tress Column: memberships, campaigns, monitoring, and the public record. Live at ops.dvaughnhouse.com.",
+    "updated": "2026-11-20",
     "section": "Surfaces",
     "facts": [
       "Ops Console",
@@ -141,7 +141,7 @@ export const PAGES = [
     "summary": "The security path, in order. Each step publishes as it lands.",
     "aiSummary": "The Tress Column security path: test suite and static analysis done; symbolic proof, fork tests, and public review pending.",
     "description": "The security path, in order. Each step publishes as it lands.",
-    "updated": "2026-11-08",
+    "updated": "2026-11-20",
     "section": "Learn",
     "facts": [
       "The security path",

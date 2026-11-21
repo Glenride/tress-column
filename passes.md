@@ -3,7 +3,7 @@
 > Tools, sight, and time. Never position.
 
 Canonical: https://tc.dvaughnhouse.com/passes
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## Tress Column Plus+
 

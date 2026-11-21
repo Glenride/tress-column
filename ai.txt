@@ -1,7 +1,7 @@
 [identity]
 name: Tress Column
 url: https://tc.dvaughnhouse.com
-description: Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+description: Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 contact: hello@tc.dvaughnhouse.com
 
 [permissions]
@@ -23,6 +23,6 @@ excluded: /api/*
 [contact]
 email: hello@tc.dvaughnhouse.com
 
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 # keep in sync with robots.txt and llms.txt

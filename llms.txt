@@ -1,12 +1,12 @@
 # Tress Column
 
-> Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+> Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 
 Tress Column is a fair-launch exchange and launch anchor on Base, a Glenride project. It is in build: the contract core is written and tested, and nothing is deployed yet. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided. Plus passes are Sapphire $7, Emerald $27, and Ruby $97 per month, designed and not yet for sale. Contact: hello@tc.dvaughnhouse.com.
 
 ## Core pages
 
-- [Tress Column](https://tc.dvaughnhouse.com/index.md): Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+- [Tress Column](https://tc.dvaughnhouse.com/index.md): Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 - [How it works](https://tc.dvaughnhouse.com/how-it-works.md): Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.
 - [The certificate](https://tc.dvaughnhouse.com/certificate.md): Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.
 - [Fees](https://tc.dvaughnhouse.com/fees.md): Zero until ten million. Then 0.3%, in the open. The full fee schedule for Tress Column launches.

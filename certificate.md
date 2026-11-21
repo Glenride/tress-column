@@ -2,8 +2,10 @@
 
 > Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.
 
+Carve the rules at block zero.
+
 Canonical: https://tc.dvaughnhouse.com/certificate
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The certificate
 

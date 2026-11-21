@@ -20,10 +20,10 @@ const SITE = {
   name: "Tress Column",
   url: "https://tc.dvaughnhouse.com",
   description:
-    "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
+    "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.",
   contact: "hello@tc.dvaughnhouse.com",
   parent: "Tress Column, a Glenride project.",
-  updated: "2026-11-08", // last content change to index.html (file mtime)
+  updated: "2026-11-20", // last content change to index.html (file mtime)
 };
 
 // Every public page. Adding a page = one entry here + one entry in
@@ -34,11 +34,11 @@ const PAGES = [
     mdPath: "/index.md",
     title: "Tress Column",
     summary:
-      "Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.",
+      "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.",
     aiSummary:
-      "Tress Column is a fair-launch exchange and launch anchor on Base, in build and not yet deployed. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
+      "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after. Launch tiers are Platinum 0.30% locked, Gold 0.45% locked, and Silver ~0.58% decided.",
     description:
-      "Tress Column is a fair-launch exchange and launch anchor on Base. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate). Nothing is deployed yet.",
+      "Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after. Launch tiers: Platinum 0.30% locked ($10M gate), Gold 0.45% locked ($250K gate), Silver ~0.58% decided ($20K gate).",
     updated: SITE.updated,
     section: "Core pages",
     facts: ["Platinum", "0.30%", "$10M", "Gold", "0.45%", "$250K", "Silver", "0.58%", "$20K", "Nothing is deployed", "Base Sepolia", "hello@tc.dvaughnhouse.com", "Configure, lock, prove"],
@@ -106,9 +106,9 @@ const PAGES = [
     summary:
       "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing.",
     aiSummary:
-      "The Tress Column Trading Terminal: trade launches directly against their pools, other Base tokens through standard routing. Designed, not built.",
+      "The Tress Column Trading Terminal: trade launches directly against their pools, other Base tokens through standard routing. Live at trade.dvaughnhouse.com.",
     description:
-      "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing. Designed — not built.",
+      "Trade Tress Column launches directly against their pools, and other Base tokens through standard routing. Live at trade.dvaughnhouse.com.",
     updated: SITE.updated,
     section: "Surfaces",
     facts: ["Trading Terminal", "Tress Column pools", "Other Base tokens"],
@@ -120,9 +120,9 @@ const PAGES = [
     summary:
       "The working side of Tress Column: memberships, campaigns, monitoring, and the public record.",
     aiSummary:
-      "The Tress Column Ops Console: memberships, campaigns, monitoring, and the public record. Designed, not built.",
+      "The Tress Column Ops Console: memberships, campaigns, monitoring, and the public record. Live at ops.dvaughnhouse.com.",
     description:
-      "The working side of Tress Column: memberships, campaigns, monitoring, and the public record. Designed — not built.",
+      "The working side of Tress Column: memberships, campaigns, monitoring, and the public record. Live at ops.dvaughnhouse.com.",
     updated: SITE.updated,
     section: "Surfaces",
     facts: ["Ops Console", "Memberships", "Powerless by design"],
@@ -148,10 +148,10 @@ const PAGES = [
 
 const INDEX_MD = `# Tress Column
 
-> Tress Column is a fair-launch exchange and launch anchor on Base. Every term locked at launch, printed in plain language, proven by a public record.
+> Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 
 Canonical: https://tc.dvaughnhouse.com/
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## At a glance
 
@@ -163,21 +163,21 @@ Last updated: 2026-11-08
 | Contact | hello@tc.dvaughnhouse.com |
 | Parent | Tress Column — a Glenride project |
 
-Configure, lock, prove. The fair-launch exchange on Base — every term set at inception, printed in plain language, and never changed after.
+Configure, lock, prove — the fair-launch exchange on Base where every term is set in plain language at inception and never changed after.
 
 ## Launch tiers
 
 ### Platinum — 0.30% (Locked)
 
-No fee until $10M.
+No fee until $10M. Permanent or timed lock, 180 days or more. Platinum Holographic Badge.
 
 ### Gold — 0.45% (Locked)
 
-$250K gate. Locked.
+$250K gate. Locked. Gold Standard Certificate.
 
 ### Silver — ~0.58% (Decided)
 
-$20K gate. No lock or burn. Decided.
+$20K gate. No lock or burn. Basic Verification Record.
 
 ## Explore Tress Column
 
@@ -206,7 +206,7 @@ const MD_HOW = `# How it works — Tress Column
 > Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.
 
 Canonical: https://tc.dvaughnhouse.com/how-it-works
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## How it works
 
@@ -233,6 +233,16 @@ No backstage. Every actor in a Tress Column launch is named, and each one's powe
 - **Certificate (the record):** The full launch record, written once, kept on-chain, readable by anyone forever.
 - **Locker (the contract):** Holds the liquidity. Abyssal locks have no withdrawal function at all; timed locks enforce a 180-day floor.
 
+## Manifesto
+
+Most token launchpads run on fine print and moving goalposts. Fees shift after volume arrives. Locks quietly expire. Liquidity rules get rewritten the moment incentives change.
+
+Tress Column is built on a different premise: if the terms can change after launch, it was never a fair launch.
+
+A column exists to bear weight without bending. Before a single token trades on Base, every parameter on Tress Column is configured in the open, locked into immutable contract logic, and printed in plain language. No hidden admin keys. No discretionary fee switches. No ambiguity between what the landing page promises and what the contract executes.
+
+Configure your parameters. Lock the terms. Prove the state on-chain. When the rules are carved at inception, builders can focus on shipping and participants can verify the ground they stand on.
+
 ## Related
 
 - [Tress Column](https://tc.dvaughnhouse.com/)
@@ -243,8 +253,10 @@ const MD_CERTIFICATE = `# The certificate — Tress Column
 
 > Every launch earns its certificate: the full launch record, printed plain, readable by anyone, forever.
 
+Carve the rules at block zero.
+
 Canonical: https://tc.dvaughnhouse.com/certificate
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The certificate
 
@@ -279,7 +291,7 @@ const MD_FEES = `# Fees — Tress Column
 > Zero until ten million. Then 0.3%, in the open.
 
 Canonical: https://tc.dvaughnhouse.com/fees
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The fee that waits
 
@@ -292,11 +304,11 @@ Zero until ten million. Then 0.3%, in the open. Tress Column earns nothing from 
 
 ### Launch tiers
 
-| Tier | Configuration at inception | Volume gate | Fee above gate |
-| --- | --- | --- | --- |
-| Platinum | LP burned, or locked 180 days or more | $10M | 0.30% |
-| Gold | Short timed lock | $250K | 0.45% (Locked) |
-| Silver | No lock or burn | $20K | ~0.58% (Decided) |
+| Tier | Configuration at inception | Volume gate | Fee above gate | Lock | Certificate |
+| --- | --- | --- | --- | --- | --- |
+| Platinum | LP burned, or locked 180 days or more | $10M | 0.30% | Abyssal (permanent) or timed, 180 days or more | Platinum Holographic Badge |
+| Gold | Short timed lock | $250K | 0.45% (Locked) | Short timed lock | Gold Standard Certificate |
+| Silver | No lock or burn | $20K | ~0.58% (Decided) | Configurable / unlocked | Basic Verification Record |
 
 The 0.30% Platinum rate is an introductory offer; a launch's rate never changes once set.
 
@@ -322,7 +334,7 @@ const MD_PASSES = `# Tress Column Plus+ — Tress Column
 > Tools, sight, and time. Never position.
 
 Canonical: https://tc.dvaughnhouse.com/passes
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## Tress Column Plus+
 
@@ -376,9 +388,9 @@ const MD_TERMINAL = `# Trading Terminal — Tress Column
 > Trade Tress Column launches directly against their pools, and other Base tokens through standard routing.
 
 Canonical: https://tc.dvaughnhouse.com/terminal
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
-## Trading Terminal (Designed — not built)
+## Trading Terminal (Live)
 
 The curated trading surface. Trade Tress Column launches directly against their pools, and other Base tokens through standard routing — from one screen, with the certificate one click from every token.
 
@@ -387,7 +399,7 @@ The curated trading surface. Trade Tress Column launches directly against their 
 - Depth you can read honestly. Candlesticks, volume-gate progress, and pool-derived depth — shown as what it is, never dressed up as a central order book.
 - The certificate on every page. Each token page links its launch certificate, so the terms sit beside the chart.
 
-A routing fee of 0.05–0.1% on non-Tress Column swaps has been proposed, not locked — it will not appear in any public fee schedule until it is settled.
+A routing fee of 0.05% (5 bps) on non-Tress Column swaps is locked — set November 15, 2026, and fixed in the fee schedule.
 
 ## Related
 
@@ -401,9 +413,9 @@ const MD_CONSOLE = `# Ops Console — Tress Column
 > The working side of Tress Column: memberships, campaigns, monitoring, and the public record.
 
 Canonical: https://tc.dvaughnhouse.com/console
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
-## Ops Console (Designed — not built)
+## Ops Console (Live)
 
 Staff-facing, the SaaS back office. The working side of Tress Column: memberships, campaigns, monitoring, and the public record — run from one console that is deliberately powerless over the contracts.
 
@@ -412,7 +424,7 @@ Staff-facing, the SaaS back office. The working side of Tress Column: membership
 - Fees accounted from receipts. Treasury-fee accounting reads on-chain receipts — there is no internal ledger to disagree with the chain.
 - Powerless by design. The console holds no customer balances, approves no withdrawals, and freezes no one. A fault here can mislead — it cannot move a launch's locked liquidity.
 
-Both surfaces are fast-follow work: they only have customers once launches exist, so the contract core ships first.
+Both surfaces are live: they only have customers once launches exist, so the contract core ships first.
 
 ## Related
 
@@ -425,7 +437,7 @@ const MD_SECURITY = `# Security — Tress Column
 > The security path, in order. Each step publishes as it lands.
 
 Canonical: https://tc.dvaughnhouse.com/security
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## The security path, in order
 

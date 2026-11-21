@@ -3,7 +3,7 @@
 > Configure, lock, prove. How a Tress Column launch is set once, frozen, and proven by its certificate.
 
 Canonical: https://tc.dvaughnhouse.com/how-it-works
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## How it works
 
@@ -29,6 +29,16 @@ No backstage. Every actor in a Tress Column launch is named, and each one's powe
 - **Hook (the contract):** Guards the launch window and applies the launch's fee rule — nothing below its gate, its configured rate in quote asset above it.
 - **Certificate (the record):** The full launch record, written once, kept on-chain, readable by anyone forever.
 - **Locker (the contract):** Holds the liquidity. Abyssal locks have no withdrawal function at all; timed locks enforce a 180-day floor.
+
+## Manifesto
+
+Most token launchpads run on fine print and moving goalposts. Fees shift after volume arrives. Locks quietly expire. Liquidity rules get rewritten the moment incentives change.
+
+Tress Column is built on a different premise: if the terms can change after launch, it was never a fair launch.
+
+A column exists to bear weight without bending. Before a single token trades on Base, every parameter on Tress Column is configured in the open, locked into immutable contract logic, and printed in plain language. No hidden admin keys. No discretionary fee switches. No ambiguity between what the landing page promises and what the contract executes.
+
+Configure your parameters. Lock the terms. Prove the state on-chain. When the rules are carved at inception, builders can focus on shipping and participants can verify the ground they stand on.
 
 ## Related
 
